@@ -1,5 +1,6 @@
 
 ## Deep First Search Algorithm
+Randomized maze generator using the Depth-First Search algorithm in javascript
 
 <!-- ![20:22:08--16-03-2024](https://github.com/Mouadspace/deep-first-search-algo/assets/121675898/b5cdfbd4-7e5d-4e48-b77e-837e41e85621)
 ![20:10:00--16-03-2024](https://github.com/Mouadspace/deep-first-search-algo/assets/121675898/530369e4-af1e-4eed-8267-d537f36f96e7) -->
